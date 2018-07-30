@@ -1,0 +1,17 @@
+{
+  "name": "card-validator",
+  "description": "A library for validating credit card fields",
+  "main": "index.js",
+  "authors": [
+    "Braintree <code@getbraintree.com> (https://www.braintreepayments.com/)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/SergioEnrique/card-validator",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
